@@ -143,4 +143,4 @@ while run:
 
     player.update()
     display.update()
-    
+#игра готова
